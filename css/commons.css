@@ -84,19 +84,18 @@
 
 /* back to top */
 .back-to-top {
-    border: 1px solid black;
     background-color: white;
-    width: 50px;
-    height: 50px;
+    box-shadow: 4px 4px 2px 0 rgba(0,0,0,0.38);
+    width: 20px;
+    height: 20px;
     border-radius: 100%;
     align-items: center;
     padding: 30px;
     display: flex;
     justify-content: center;
     position: fixed;
-    bottom: 280px;
-    right: 350px;
+    bottom: 200px;
+    right: 200px;
+    
 }
-
-
 
